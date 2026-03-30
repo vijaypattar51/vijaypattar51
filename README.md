@@ -8,9 +8,9 @@ Full Stack Dev | MERN
 
 💼 Open to internships & entry-level opportunities — let's connect!
 
+* 🚀  I'm currently contributing as a Full-Stack Developer Intern at Springevening Private Limited. [Startup project — BrdgIn](http://github.com/springevening/projectbrdginfrontend)
 * 🌍  I'm based in Bagalkote
 * ✉️  You can contact me at [vijaypattar2451@gmail.com](mailto:vijaypattar2451@gmail.com)
-* 🚀  I'm currently contributing as a Full-Stack Developer Intern at Springevening Private Limited. [Startup project — BrdgIn](http://github.com/springevening/projectbrdginfrontend)
 * 🧠  I'm currently learning React
 * 👥  I'm looking to collaborate on Full-time job opportunities & exciting projects to collaborate on.
 
